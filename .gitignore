@@ -1,0 +1,12 @@
+# Ignore all text files
+*.txt
+
+
+# Ignore all PDF files
+*.pdf
+
+# Ignore all doc files
+*.docx
+
+# Ignore all mp4 files
+*.mp4
